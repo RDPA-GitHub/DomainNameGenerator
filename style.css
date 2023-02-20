@@ -1,0 +1,31 @@
+.List-Item {
+  color: gray;
+  font-size: 15px;
+  font-weight: bold;
+  font-family: monospace;
+  margin-left: 740px;
+  padding: 0;
+  /* otras reglas de estilo aquí */
+}
+
+.List-Item:hover{
+  color: rgb(17, 67, 78);
+  font-size: 17px;
+  font-weight: bold;
+  padding: 0;
+  /* otras reglas de estilo aquí */
+}
+
+h1{
+  text-align: center;
+  color: whitesmoke;
+  font-size: 48px;
+  font-family: 'Concert One', cursive;
+  text-shadow: 2px 2px 4px #a1a1a1;
+  margin-top: 10px;
+  padding: 0;
+}
+
+body {
+  background-color: skyblue;
+}

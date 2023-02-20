@@ -25,6 +25,6 @@
   ourbigracoon.com
 ```
 
-### <span style="color: #DC3411; font-weight:bold;"> Desarrollador Ronald Peña </span>
+### <span style="font-weight:bold;"> Desarrollador Ronald Peña </span>
 
-  <center><img src = "./img/Logo.png" width = "250px" /></center>
+  <img src = "./img/Logo.png" width = "250px" />
